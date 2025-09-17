@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xiangru.
 - 👀 I’m interested in Brain-inspired Vision System and Robotics.
-- 🌱 I’m currently learning Deepth Estimation, LLM, Robotics.
+- 🌱 I’m currently learning Depth Estimation, LLM, Robotics.
 - 💞️ I’m looking to collaborate on Vision System.
 - 📫 How to reach me: xiangru1211@gamil.com
 
